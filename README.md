@@ -2,7 +2,7 @@
 
 A secure graphical password authentication system built using Python Flask, allowing users to log in using images instead of traditional text passwords.
 
-## Features
+## Features:
 
 - User registration with graphical password
 - Login using image selection
@@ -10,7 +10,7 @@ A secure graphical password authentication system built using Python Flask, allo
 - Simple and intuitive UI
 - SQLite database for user storage
 
- ## Technologies Used
+ ## Technologies Used:
 
 - Python
 - Flask
@@ -18,7 +18,7 @@ A secure graphical password authentication system built using Python Flask, allo
 - SQLite
 - JSON
 
-## Setup & Installation
+## Setup & Installation:
 
 ### 1️. Clone the Repository
 
