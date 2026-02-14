@@ -4,11 +4,11 @@ A secure graphical password authentication system built using Python Flask, allo
 
 ## Features:
 
-- User registration with graphical password
-- Login using image selection
-- Flask web framework
-- Simple and intuitive UI
-- SQLite database for user storage
+1. User registration with graphical password
+2. Login using image selection
+3. Flask web framework
+4. Simple and intuitive UI
+5. SQLite database for user storage
 
  ## Technologies Used:
 
